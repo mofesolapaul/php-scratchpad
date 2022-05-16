@@ -1,0 +1,17 @@
+{
+    "name": "dev/php-scratchpad",
+    "autoload": {
+        "psr-4": {
+            "Dev\\PhpScratchpad\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mofesola Banjo",
+            "email": "mofesola.banjo@scoding.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
